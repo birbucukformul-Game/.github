@@ -1,46 +1,45 @@
 # 🎮 1.5 Adana Formula — Oyun Geliştirme Departmanı
 
-> "Hayalleri interaktif dünyalara, kodları yaşayan mekaniklere dönüştürüyoruz."
+"Hayalleri interaktif dünyalara, kodları yaşayan mekaniklere dönüştürüyoruz. Sadece oyun yapmıyoruz; fizik, matematik ve sanatı aynı potada eritiyoruz."
 
 ---
 
-## 🕹️ Vizyonumuz
-Bu organizasyon, **1.5 Adana** ekosisteminin yaratıcı gücünü temsil eder. Sadece oyun oynamıyor; oyun motorlarının mimarisinden, karmaşık fizik motorlarına ve optimize edilmiş grafiklere kadar oyunun her katmanında mühendislik çözümleri üretiyoruz.
-
-Burada odak noktamız: **Performans, Oynanabilirlik ve Sürdürülebilir Kod Mimarisi.**
+### 💡 Biz Kimiz?
+Biz **1.5 Adana Formula** ekibinin yaratıcı ve teknik gücüyüz. Oyun geliştirmenin sadece görselden ibaret olmadığını, arka planda devasa bir optimizasyon ve mimari süreç yattığını biliyoruz. Karmaşık fizik motorlarından yapay zeka davranışlarına kadar oyunun her katmanında mühendislik çözümleri üretiyoruz.
 
 ---
 
-## 🛠️ Teknolojilerimiz ve Araçlarımız
-Projelerimizde modern oyun endüstrisinin standartlarını kullanıyoruz:
+### 🛠️ Nelerle Uğraşıyoruz?
+Projelerimizde modern oyun endüstrisinin standartlarını baz alıyoruz. Odak noktamız her zaman **performanslı ve sürdürülebilir** kod yazmak.
 
-* **Oyun Motorları:** Unity (C#), Unreal Engine (C++)
-* **Diller:** C#, C++, GLSL/HLSL (Shader Yazımı)
-* **Versiyon Kontrol:** Git & Git LFS (Büyük asset yönetimi için)
-* **Odak Alanları:** Mobil oyun mekanikleri, Multiplayer senkronizasyonu ve Yapay Zeka.
-
----
-
-## 📂 Proje Kategorilerimiz
-Organizasyonumuzdaki repolar genellikle şu üç ana başlık altında toplanır:
-
-1.  **🚀 Ana Projeler:** Yayınlanma hedefi olan, tam kapsamlı oyun projeleri.
-2.  **🔧 Mekanik Testleri:** Karakter kontrolleri, envanter sistemleri veya özel fizik motoru denemeleri.
-3.  **📚 Eğitim Repoları:** Bootcamp'ten gelen arkadaşların ilk projeleri ve "best practice" örnekleri.
+| Alan | Kullanılan Teknolojiler |
+| :--- | :--- |
+| **Oyun Motorları** | Unity (C#), Unreal Engine (C++) |
+| **Diller** | C#, C++, GLSL/HLSL (Shader Yazımı) |
+| **Versiyon Kontrol** | Git & Git LFS (Büyük dosya yönetimi) |
+| **Uzmanlıklar** | Fizik tabanlı mekanikler, Yapay Zeka, Multiplayer mimarisi |
 
 ---
 
-## 🚀 Ekibe Dahil Olma Süreci
-Eğer bu organizasyona dışarıdan ulaştıysanız ve bizimle geliştirmek istiyorsanız:
-1.  Öncelikle [1.5 Adana Ana Organizasyonu](https://github.com/birbucukformula-Egitim-Linkin) üzerinden eğitim sürecine katılmalısınız.
-2.  Eğitimini başarıyla tamamlayan "Junior" geliştiriciler buradaki projelere **Contributor** olarak atanır.
-3.  Kendi projenizi başlatmak için Departman Yöneticisi ile iletişime geçebilirsiniz.
+### 📂 Proje Yapımız
+Organizasyonumuzdaki çalışmalar genellikle üç grupta toplanır:
+
+1.  **🚀 Ana Projeler:** Ekipçe üzerinde çalıştığımız, yayınlanabilir seviyedeki büyük çaplı oyunlar.
+2.  **🔧 Mekanik Laboratuvarı:** Karakter kontrolleri, envanter sistemleri veya özel shader denemeleri gibi küçük test repoları.
+3.  **📚 Eğitim Çıktıları:** Bootcamp sürecini tamamlayan arkadaşların ilk ciddi projeleri ve örnek uygulamalar.
 
 ---
 
-## 📊 Departman İstatistikleri
-![GitHub Top Languages](https://img.shields.io/github/languages/top/birbucukformul-Game/REPOST_ISMI_VEYA_GENEL?color=FF5733)
+### 🚀 Ekibe Katılım
+Eğer aramıza yeni katıldıysan veya katılmak istiyorsan:
+* Süreç her zaman [1.5 Adana Formula - Software](https://github.com/birbucukformula-Software) ana sayfasındaki **Bootcamp** ile başlar.
+* Eğitimini ve temel projelerini tamamlayan geliştiriciler, ilgi duydukları oyun projelerine **Contributor** olarak dahil edilir.
+
+---
+
+### 📈 Departman Görünümü
+![GitHub Top Languages](https://img.shields.io/github/languages/top/birbucukformul-Game/PROJE_ADINIZ?color=FF5733)
 ![Total Stars](https://img.shields.io/github/stars/birbucukformul-Game?style=social)
 
 ---
-🏠 **Ana Portala Dön:** [1.5 Adana Portal](https://github.com/birbucukformula-Ana-Linkin)
+🏠 **Ana Portala Dön:** [1.5 Adana Software](https://github.com/birbucukformula-Software)
