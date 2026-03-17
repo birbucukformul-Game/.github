@@ -1,4 +1,4 @@
-# 🎮 1.5 Adana — Oyun Geliştirme Departmanı
+# 🎮 1.5 Adana Formula — Oyun Geliştirme Departmanı
 
 > "Hayalleri interaktif dünyalara, kodları yaşayan mekaniklere dönüştürüyoruz."
 
